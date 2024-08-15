@@ -60,7 +60,7 @@
     "@metamask/post-message-stream": "^8.0.0",
     "@metamask/rpc-errors": "^6.2.1",
     "@metamask/snaps-registry": "^3.0.0",
-    "@metamask/snaps-rpc-methods": "workspace:^",
+    "@metamask/snaps-rpc-methods": "6.0.0",
     "@metamask/snaps-sdk": "workspace:^",
     "@metamask/snaps-utils": "workspace:^",
     "@metamask/utils": "^8.3.0",
