@@ -46,7 +46,7 @@
     "build:ci": "tsup --clean"
   },
   "dependencies": {
-    "@metamask/snaps-utils": "workspace:^",
+    "@metamask/snaps-utils": "0.24.0",
     "@metamask/utils": "^8.3.0",
     "yargs": "^17.7.1"
   },
