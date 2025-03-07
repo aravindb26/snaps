@@ -43,7 +43,7 @@
   },
   "dependencies": {
     "@metamask/snaps-sdk": "workspace:^",
-    "@metamask/snaps-utils": "workspace:^",
+    "@metamask/snaps-utils": "0.24.0",
     "@metamask/utils": "^8.3.0",
     "webpack-sources": "^3.2.3"
   },
