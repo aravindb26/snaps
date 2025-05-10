@@ -52,15 +52,15 @@
     "@metamask/signature-insights-example-snap": "workspace:^",
     "@metamask/snaps-utils": "workspace:^",
     "@metamask/utils": "^8.3.0",
-    "@metamask/wasm-example-snap": "workspace:^",
+    "@metamask/wasm-example-snap": "1.0.0",
     "@popperjs/core": "^2.11.8",
-    "@reduxjs/toolkit": "^1.9.5",
+    "@reduxjs/toolkit": "^2.0.0",
     "bootstrap": "^5.2.2",
     "gl-matrix": "^3.4.3",
     "react": "^18.2.0",
     "react-bootstrap": "^2.5.0",
     "react-dom": "^18.2.0",
-    "react-redux": "^8.0.5",
+    "react-redux": "^9.0.0",
     "simplex-noise": "^4.0.0"
   },
   "devDependencies": {
