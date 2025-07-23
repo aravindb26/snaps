@@ -57,7 +57,7 @@
     "@metamask/providers": "^14.0.2",
     "@metamask/rpc-errors": "^6.2.1",
     "@metamask/snaps-sdk": "workspace:^",
-    "@metamask/snaps-utils": "workspace:^",
+    "@metamask/snaps-utils": "0.24.0",
     "@metamask/utils": "^8.3.0",
     "nanoid": "^3.1.31",
     "readable-stream": "^3.6.2",
